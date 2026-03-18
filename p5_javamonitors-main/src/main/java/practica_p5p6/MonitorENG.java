@@ -1,0 +1,20 @@
+package practica_p5p6;
+
+import java.util.ArrayList;
+
+public class MonitorENG {
+    /* @TODO: ADD THE ArrayList<Integer> collection */
+
+    /* @TODO: ADD AND COMPLETE THE METHOD addInt THAT INSERTS AN ELEMENT */
+    /* DO NOT FORGET TO CALL imprimir_lista() AFTER ADDING THE ELEMENT */
+
+    /* @TODO: ADD AND COMPLETE THE METHOD getPar THAT RETRIEVES AN EVEN ELEMENT */
+    /* IT THROWS InterruptedException IF A THREAD BLOCKED ON A CONDITION IS INTERRUPTED */
+    /* DO NOT FORGET TO CALL imprimir_lista() AFTER REMOVING THE ELEMENT */
+
+    /* @TODO: ADD AND COMPLETE THE METHOD getImpar THAT RETRIEVES AN ODD ELEMENT */
+    /* IT THROWS InterruptedException IF A THREAD BLOCKED ON A CONDITION IS INTERRUPTED */
+    /* DO NOT FORGET TO CALL imprimir_lista() AFTER REMOVING THE ELEMENT */
+
+    /* @TODO: ADD AND COMPLETE THE METHOD imprimir_lista THAT PRINTS THE ARRAY */
+}
